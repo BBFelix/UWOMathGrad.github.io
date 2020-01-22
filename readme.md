@@ -24,13 +24,20 @@ It is also expected that the new comitte keep mantaining the website and keep th
 
 ## Commitee and Mantainance
 
-The current version **Fall 2019** is currently organized by the graduate students:
+The current version **Winter 2020** is organized by the graduate students:
+
+- Félix Baril Boudreau (fbarilbo)
+- Marios Velivakis (mvelivas)
+- Udit Marvinkurve (umavinku)
+
+
+The previous version **Fall 2019** was organized by the graduate students:
 
 - Félix Baril Boudreau (fbarilbo)
 - Sergio Chaves (schavesr)
 - Brandon Doherty (bdoher)
 
-And the mantainance of the website is currently under the charge of [schavesr](https://github.com/slchavesr).
+And the mantainance of the website is currently under the charge of [fbarilbo](https://github.com/BBFelix).
 
 ### Previous Organizers
 
